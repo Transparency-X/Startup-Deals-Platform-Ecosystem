@@ -1,0 +1,21 @@
+Platform,Tier,Focus,Pricing_USD,Pricing_EUR,Pricing_GBP,Regions,Deal_Count,Risk_Level,Best_For
+Microsoft Founders Hub,Tier-0,$150K Azure + GitHub + M365,Free,Free,Free,"Global (IE, UK, EU, USA, CA, APAC)",N/A,Low,"AI/ML, enterprise B2B"
+Google for Startups Cloud,Tier-0,$350K (AI) / $200K (standard) credits,Free,Free,Free,Global,N/A,Low,"AI-first, data-heavy"
+AWS Activate,Tier-0,$100K (Portfolio) / $1K (Founders) credits,Free,Free,Free,Global,N/A,Low,Already on AWS
+Stripe Atlas,Tier-0,$5K AWS + $2.5K Stripe + $50K+ perks,$500 one-time,~€455,~£398,USA only,N/A,Low,First-time US C-Corp
+HubSpot for Startups,Tier-0,"90% off Y1, 50% off Y2",Free,Free,Free,Global,N/A,Low,B2B sales/marketing
+Notion for Startups,Tier-0,3-6 mo free + 50% off Y1,Free,Free,Free,Global,N/A,Low,Team collaboration
+Secret (JoinSecret),Tier-1,500+ SaaS deals,$149/yr or lifetime,~€136/yr,~£118/yr,Global,500+,Low,SaaS breadth
+SaaSOffers,Tier-1,"49+ startup deals, fast claim",$79/yr Premium + free tier,~€72/yr,~£63/yr,Global,49+,Low,Budget-conscious
+StartGround,Tier-1,Community-first verified offers,Free / Premium (50% off),EUR native,~£44-87/yr,"EU-focused (IE, UK, EU)",Curated,Low,EU community
+FounderPass,Tier-1,"350+ deals, $3.5M+ claimed",$99/yr or $499 lifetime,~€90/yr / ~€455 LT,~£79/yr / ~£398 LT,Global,350+,Low,Long-term founders
+AppSumo,Tier-1,"Lifetime deals (LTDs), courses",$39-99 per deal,~€36-90,~£31-79,Global,1000+,Medium-High,Bootstrappers
+StackSocial,Tier-1,Software + refurbished tech,Varies,Varies,Varies,Global (digital); USA/CA (physical),Broad,Medium,General tech
+NachoNacho,Tier-1,B2B SaaS + spend management,$129/yr + $10/user/mo,~€117/yr + €9/user/mo,~£103/yr + £8/user/mo,Global,300+,Low,SaaS spend control
+Dealify,Tier-1,Curated SaaS LTDs,Free / ~$49/yr Select,~€45/yr,~£39/yr,Global,Curated,Medium,Quality LTD buyers
+XRaise,Tier-1,"Accelerators, grants, AI credits",Membership (unspecified),Unknown,Unknown,Global,Grant-focused,Medium,Non-dilutive funding
+FoundersPrime,Tier-1,Intelligence terminal,Free? (unspecified),Unknown,Unknown,Unknown,Intelligence,Medium,Research-heavy
+OSS Perks,Tier-2,Open-source project perks,Free,Free,Free,Global,15+,Low,OSS maintainers
+HackerNoon Grants,Tier-2,AI startup grants database,Free,Free,Free,Global,Large,Low,AI grants
+Awesome Startup Credits,Tier-2,GitHub repo (60+ programs),Free,Free,Free,Global,60+,Low,DIY founders
+YC Startup School,Tier-2,Education + $2.5K AWS credits,Free,Free,Free,Global,N/A,Low,Pre-seed education
